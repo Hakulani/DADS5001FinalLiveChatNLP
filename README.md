@@ -26,7 +26,7 @@ Idea + creative
  
 ![01](https://user-images.githubusercontent.com/61573397/212733150-373423f9-9741-4b67-b302-90c6f430f66d.png)
 
-![02](https://user-images.githubusercontent.com/61573397/212733819-19545835-a224-45c9-8f61-abc577ebd157.png)
+![02](https://user-images.githubusercontent.com/61573397/212734493-ac1a2285-0e03-490e-a07c-1d2f6b1ae0c7.png)
 
 ![03](https://user-images.githubusercontent.com/61573397/212733168-e932e37e-4bca-406f-86a6-e37795400cd1.png)
 
