@@ -1,5 +1,5 @@
 # DADS5001FinalLiveChatNLP
-Live chat sentiment analytics dash plotly interactive Data Visualization 
+HEARTROCKER game steamer live chat sentiment analytics dash plotly interactive Data Visualization 
 
 
 Video presentation
