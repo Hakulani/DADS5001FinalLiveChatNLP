@@ -4,7 +4,7 @@ Live chat sentiment analytics dash plotly interactive Data Visualization
 
 Video presentation
 https://youtu.be/szTTX_1QOaM
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 
 Quiz2 + Final project (Live chat analytics)
