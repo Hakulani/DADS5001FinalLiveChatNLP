@@ -9,8 +9,9 @@ Idea + creative
 
 
 
-Installation lib
-
+# Installation lib
+```
 !pip install pytchat
 !pip install dash
 !pip install plotly
+```
