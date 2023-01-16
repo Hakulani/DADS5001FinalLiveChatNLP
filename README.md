@@ -9,7 +9,7 @@ Idea + creative
 
 
 
-# Installation lib
+# Library and Install
 ```
 !pip install pytchat
 !pip install dash
