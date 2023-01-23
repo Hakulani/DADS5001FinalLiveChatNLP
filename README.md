@@ -1,6 +1,6 @@
 # DADS5001FinalLiveChatNLP
 HEARTROCKER game steamer live chat sentiment analytics dash plotly interactive Data Visualization 
-
+The final project for this course is the development of an interactive data visualization application for sentiment analysis of live conversations on the YouTube streaming channel "HEARTROCKER" for the game. This application will utilize Plotly for data visualization and will provide insights on player sentiment during live gameplay through sentiment analytics. The goal of this project is to gain a deeper understanding of player engagement and experiences during live gameplay through the analysis of player conversations. The application will provide an interactive dash which can be used to monitor player sentiment in real-time and make data-driven decisions. The project will be developed in Python and will utilize the Plotly library for interactive data visualization."
 
 Video presentation
 https://youtu.be/szTTX_1QOaM
